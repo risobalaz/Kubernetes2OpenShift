@@ -4,7 +4,8 @@ import connexion
 BOOKS = {'1984': 5,
          'foo': 1,
          'bar': 2,
-         'book': 42
+         'book': 42,
+         'GoT': 2
          }
 
 def get_review(name):
